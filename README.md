@@ -1,4 +1,7 @@
-VIS4ML4HD is an EPSRC-funded project in collaboration with the University of Oxford. 
+# About
+Visualisation for Machine Learning for Human-centred Decision-making (VIS4ML4HD) is an EPSRC-funded project in collaboration with the University of Oxford 
+
+# Projects
 
 1. Synthetic shape data generator: https://github.com/saifulkhan/synthetic-shape-data-generator
 2. Data Virtualization: https://github.com/saifulkhan/data-virtualization
