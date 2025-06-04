@@ -9,7 +9,7 @@ Visualisation for Machine Learning for Human-centred Decision-making (VIS4ML4HD)
    - Core middleware and API components shared by other services: [https://github.com/VIS4ML4HD/core](https://github.com/VIS4ML4HD/core)
    - VIS4ML4HD Infrastructure API: [https://github.com/VIS4ML4HD/infrastructure](https://github.com/VIS4ML4HD/infrastructure)
    - Job Execution System (JES): [https://github.com/VIS4ML4HD/jes](https://github.com/VIS4ML4HD/jes)
-   - Databases and external services: [https://github.com/VIS4ML4HD/databases](https://github.com/VIS4ML4HD/databases)
+   - External databases and services: [https://github.com/VIS4ML4HD/external](https://github.com/VIS4ML4HD/external)
    - DVS (mentioned earlier)
 4. VIS4ML4HD UI [https://github.com/VIS4ML4HD/vis4ml4hd-ui](https://github.com/VIS4ML4HD/vis4ml4hd-ui)
 
